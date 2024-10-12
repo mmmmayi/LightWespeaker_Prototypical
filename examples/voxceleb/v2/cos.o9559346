@@ -1,0 +1,18 @@
+sending incremental file list
+
+sent 11.49M bytes  received 27.04K bytes  77.59K bytes/sec
+total size is 57.30G  speedup is 4,973.19
+      ======================================================================================
+     Resource Usage on 2024-10-12 09:43:19.047314:
+     JobId: 9559346.venus01  				 Project: volta_pilot 
+     Submission Host: atlas8-c01 
+     Exit Status: 0
+     NCPUs Requested: 10 				 NCPUs Used: 10
+     Memory Requested: 20gb 				 Memory Used: 20971520kb 
+     Vmem Used: 195150220kb
+     CPU Time Used: 249:28:00 
+     Walltime requested: 72:00:00 			 Walltime Used: 38:56:23
+     Submit Time:  Thu Oct 10 18:39:58 2024 		 Start Time: Thu Oct 10 18:46:55 2024 
+     End Time: Sat Oct 12 09:43:19 2024 
+     Execution Nodes Used: (volta07:ncpus=10:mem=20971520kb:ngpus=1)
+     ======================================================================================
