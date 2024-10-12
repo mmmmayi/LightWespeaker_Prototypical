@@ -1,0 +1,3 @@
+---- vox1_O_cleaned.kaldi.score -----
+EER = 3.403
+minDCF (p_target:0.01 c_miss:1 c_fa:1) = 0.453
